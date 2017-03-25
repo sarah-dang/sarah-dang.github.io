@@ -389,7 +389,7 @@ section h3.section-subheading {
   margin-left: -1.5px;
 }
 .timeline > li {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   position: relative;
   min-height: 50px;
 }
@@ -539,25 +539,6 @@ section h3.section-subheading {
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;
   }
-}
-.team-member {
-  text-align: center;
-  margin-bottom: 50px;
-}
-.team-member img {
-  margin: 0 auto;
-  border: 7px solid white;
-}
-.team-member h4 {
-  margin-top: 25px;
-  margin-bottom: 0;
-  text-transform: none;
-}
-.team-member p {
-  margin-top: 0;
-}
-aside.clients img {
-  margin: 50px auto;
 }
 section#contact {
   background-color: #222222;
